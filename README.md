@@ -5,7 +5,7 @@ This project demonstrates how to use the Llama2 model from Meta via the AWS Bedr
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
-- Python 3.x
+- Python 3.10+
 - pip (Python package installer)
 - AWS CLI
 - boto3 (AWS SDK for Python)
