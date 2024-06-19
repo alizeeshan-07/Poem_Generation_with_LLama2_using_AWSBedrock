@@ -11,8 +11,4 @@ Before running this project, ensure you have the following installed:
 - boto3 (AWS SDK for Python)
 - Visual Studio Code (VSCode)
 
-## Setting Up AWS CLI
 
-1. **Install AWS CLI**:
-   ```bash
-   pip install awscli
